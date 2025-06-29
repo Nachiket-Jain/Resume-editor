@@ -1,0 +1,48 @@
+{
+  "id": 2,
+  "personalInfo": {
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "New York, NY",
+    "summary": "Here are a few options, each with a slightly different emphasis:\n\n**Option 1 (Focus on results):**\n\n> Highly effective professional with proven success in [mention area of expertise].  Proven ability to [mention key accomplishment or skill].\n\n**Option 2 (Focus on skills):**\n\n> Results-oriented professional with expertise in [mention key skills/areas of expertise].  Exceptional abilities in [mention a quantifiable achievement].\n\n**Option 3 (More concise and direct):**\n\n> Proven professional with extensive experience in [mention field] and a track record of success in [mention key achievement or area].\n\n\n**To make these even stronger, replace the bracketed information with specifics relevant to the individual.**  For example:\n\n* Instead of \"[mention area of expertise]\", write \"project management in the tech industry\".\n* Instead of \"[mention key accomplishment or skill]\", write \"delivering projects under budget and ahead of schedule\".\n\n\nThe original summary is self-congratulatory and lacks substance.  The key to a strong professional summary is to be specific, concise, and results-oriented.\n"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior Software Developer",
+      "company": "Tech Corp",
+      "duration": "2021 - Present",
+      "description": "Led development of web applications using React and Node.js."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Technology",
+      "year": "2019"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "SQL"
+  ],
+  "customSections": [
+    {
+      "id": 1,
+      "title": "Certifications",
+      "type": "list",
+      "content": "",
+      "items": [
+        "AWS Certified Developer",
+        "Google Cloud Professional"
+      ],
+      "entries": []
+    }
+  ],
+  "timestamp": "2025-06-29T17:21:20.190753"
+}
