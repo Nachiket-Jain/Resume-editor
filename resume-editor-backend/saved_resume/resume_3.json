@@ -1,0 +1,48 @@
+{
+  "id": 3,
+  "personalInfo": {
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "New York, NY",
+    "summary": "This is a brilliantly optimized professional summary, showcasing unparalleled skills and experience, crafted by mock AI."
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior Software Developer",
+      "company": "Tech Corp",
+      "duration": "2021 - Present",
+      "description": "Led development of web applications using React and Node.js."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Technology",
+      "year": "2019"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "SQL"
+  ],
+  "customSections": [
+    {
+      "id": 1,
+      "title": "Certifications",
+      "type": "list",
+      "content": "",
+      "items": [
+        "AWS Certified Developer",
+        "Google Cloud Professional"
+      ],
+      "entries": []
+    }
+  ],
+  "timestamp": "2025-06-29T19:03:23.228038"
+}
